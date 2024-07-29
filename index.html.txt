@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LuxuryRockets</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <img src="8F6777B3-D5A1-4D6F-AC2C-172B39E4FE96.jpeg" alt="LuxuryRockets" class="homepage-image">
+    </div>
+</body>
+</html>
